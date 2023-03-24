@@ -53,7 +53,7 @@ label {
 }
 
 input[type="number"], select {
-    padding: 10px;
+    padding: 9px;
     border: none;
     border-radius: 5px;
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
